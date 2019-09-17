@@ -1,0 +1,33 @@
+@charset = 'UTF-8';
+
+body{
+ 		background-color: rgb(240, 221, 240);
+ 	}
+table{
+ 	border: 1px solid black;
+ 	margin: 0 auto;
+ 	padding-top: 100px;
+ 	position: relative;
+ 	-webkit-box-shadow: 0px 0px 8px 2px #000000;
+ 	background-color: white;
+ 	}
+
+ th{
+ 	border: 1px solid black;
+ 	}
+
+ tr{
+ 	border: 1px solid black;
+ 	}
+
+ h1{
+ 	margin-bottom: -115px;
+ 	
+ 	}
+ 	input.inserir{
+ 		padding: 30px;
+ 		border-radius: 10px;
+ 		font-family: Anton;
+ 		font-size: 20px;
+ 		background-color: rgb(31, 170, 245);
+ 	}
